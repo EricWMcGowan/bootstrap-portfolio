@@ -1,0 +1,228 @@
+body {
+    background-image: url("../images/prism1.png");
+}
+
+.navbar {
+    background-color: #ffffff;
+    border-bottom: #777777 solid 2px;
+}
+
+
+.name {
+    border: solid#777777 2px;
+    background: #4aaaa5; 
+    color: white;
+    padding: 5px;
+    margin-top: 5px;
+    margin-left: 50px;
+    
+}
+
+.nav-item {
+
+}
+
+
+a:link {
+    color: #777777;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+.index-link {
+    margin-left: 675px;
+}
+
+.contact-link {
+    margin-left: 15px;
+}
+
+.portfolio-link {
+   margin-left: 15px 
+}
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    float: center;
+    border: solid #777777 2px;
+    background: white;
+    
+}
+
+.aboutme {
+    color: #4aaaa5;
+    border-bottom: solid #777777 2px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.myimage {
+    width: 150px;
+    height:150px;
+    margin-top:5px;
+    margin-right: 20px;
+    margin-left: 0px;
+    float: left;
+}
+
+.text-field {
+    margin-top: 20px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+#footer {
+    background-color: #ffffff;
+    bottom: 0;
+    left: 0;
+    height: 75px;
+    width: 100%;
+    position: fixed;
+    border-top: solid #777777 2px;
+
+}
+
+
+.input-label {
+    color: #4aaaa5;
+    border-bottom: solid #777777 2px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.form-group1 {
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+.form-group2 {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+.form-group3 {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.btn {
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    background: #4aaaa5;
+    border: solid #4aaaa5;
+}
+
+.portfolio-label {
+    color: #4aaaa5;
+    border-bottom: solid #777777 2px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+
+.hangman {
+    position: relative;
+}
+
+.hangman-text {
+    position: absolute;
+    text-align: center;
+    color: white;
+    background: #4aaaa5;
+    background-size: 10px;
+    width: 12%;
+    margin-top: 90px;
+    margin-left: -125px;
+
+}
+
+.rpg {
+    position: relative;
+}
+
+.rpg-text {
+    position: absolute;
+    text-align: center;
+    color: white;
+    background: #4aaaa5;
+    background-size: 10px;
+    width: 12%;
+    margin-top: 90px;
+    margin-left: -125px;
+}
+
+.triviagame {
+    position: relative;
+}
+
+.triviagame-text {
+    position: absolute;
+    text-align: center;
+    color: white;
+    background: #4aaaa5;
+    background-size: 10px;
+    width: 12%;
+    margin-top: 90px;
+    margin-left: -125px;
+}
+
+.rutgers {
+    position: relative;
+}
+
+.rutgers-text {
+    position: absolute;
+    text-align: center;
+    color: white;
+    background: #4aaaa5;
+    background-size: 16px;
+    border-bottom: solid #4aaaa5 1px;
+    width: 12%;
+    margin-top: 90px;
+    margin-left: -125px;
+    font-size: 12px;
+    padding-top: 4px;
+}
+
+.rockpaperscissors {
+    position: relative;
+}
+
+.rock-text {
+    position: absolute;
+    text-align: center;
+    color: white;
+    background: #4aaaa5;
+    background-size: 16px;
+    border-bottom: solid #4aaaa5 1px;
+    width: 12%;
+    margin-top: 90px;
+    margin-left: -125px;
+    font-size: 12px;
+    padding-top: 4px;
+}
+
+ .list-group {
+    margin-top: 15px;
+    border: none;
+}
+
+.list-group-item {
+    margin-top: 5px;
+    margin-left: -5px;
+    border: none;
+} 
+
+
+.rounded1 {
+    margin-left: 25px;
+}
+ 
